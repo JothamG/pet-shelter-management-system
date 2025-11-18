@@ -12,10 +12,13 @@ Features include:
 *Data validation and safe input handling
 
 *Automatic unique ID assignment
+
 ---------------------------------------------------------------------------------------------------------------------------------
+
 Build & Run
 gcc main.c -o shelter
 ./shelter
+
 ---------------------------------------------------------------------------------------------------------------------------------
 Files
 main.c — full program source
@@ -23,6 +26,7 @@ main.c — full program source
 petSavedValues.txt — saved pet database
 
 Makefile
+
 ---------------------------------------------------------------------------------------------------------------------------------
 Tech Used
 
@@ -33,4 +37,5 @@ Linked lists
 Text file parsing
 
 Modular programming
+
 ---------------------------------------------------------------------------------------------------------------------------------
